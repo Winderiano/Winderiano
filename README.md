@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Winder Ricardo Delgado Pereira</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h1 align="center">Hi 👋, Winderianios, My name is Winder Delgado</h1>
+<h3 align="center">I am a passionate BackEnd developer of Venezuelan origin</h3>
 
 - 🔭 I’m currently working on **Proyect Backend API**
 
