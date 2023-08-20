@@ -17,6 +17,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Winderiano&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Winderiano&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Winderiano&icon=0&color=9)](https://visitcount.itsvg.in)
 
