@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Winder Ricardo delgado Pereira</h1>
+<h1 align="center">Hi 👋, I'm Winder Ricardo Delgado Pereira</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m currently working on **Proyect Backend API**
 
 - 🌱 I’m currently learning **Data Science/Deep learning/Machine learning**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at ...
 
-- 📝 I regularly write articles on [BackEnd, FontEnd](BackEnd, FontEnd)
+- 📝 I regularly write articles on ...
 
 - 💬 Ask me about **Python.**
 
