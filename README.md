@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, Winderianos, I'm Winder Delgado</h1>
 <h3 align="center">I am a passionate Backend developer of Venezuelan origin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winderiano&label=Profile%20views&color=0e75b6&style=flat" alt="winderiano" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winderiano" alt="winderiano" /></a> </p>
 
 - 🔭 I’m currently working on **Proyect Backend API**
 
@@ -27,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winderiano&show_icons=true&locale=en" alt="winderiano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winderiano&" alt="winderiano" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=winderiano&label=Profile%20views&color=0e75b6&style=flat" alt="winderiano" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winderiano" alt="winderiano" /></a> </p>
